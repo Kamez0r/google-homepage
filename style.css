@@ -1,4 +1,26 @@
-a{
+a {
     text-decoration: none;   
+
+}
+
+.center {
+
+    text-align: center;
+}
+
+.right {
+
+    text-align: right;
+}
+
+#center{
+    margin-top: 180px;
+
+    font-family: Arial;
+
+}
+
+#top{
+    font-family: Arial;
 
 }

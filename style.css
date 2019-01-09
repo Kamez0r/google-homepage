@@ -3,6 +3,11 @@ a {
 
 }
 
+.header{
+    margin: 0px 10px;
+
+}
+
 .center {
 
     text-align: center;
@@ -22,5 +27,6 @@ a {
 
 #top{
     font-family: Arial;
+    font-size: 13px;
 
 }
